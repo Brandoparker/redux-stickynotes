@@ -15,5 +15,5 @@ const blogs = ( state = [], action ) => {
   }
 }
 
-export default blog;
+export default blogs;
 
